@@ -41,3 +41,4 @@ this.navCtrl.navigateRoot(['clientes']);
   })
   }
   }
+  
