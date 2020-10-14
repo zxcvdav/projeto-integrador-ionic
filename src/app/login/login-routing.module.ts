@@ -17,3 +17,6 @@ const routes: Routes = [
 export class LoginPageRoutingModule {
   
 }
+/** Login: admin2@admin.com
+ *  Senha: 123456
+ */
